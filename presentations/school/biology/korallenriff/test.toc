@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {2}{Definition / Entstehung}{8}{0}{1}
+\beamer@sectionintoc {3}{Rifftypen}{13}{0}{2}
+\beamer@subsectionintoc {3}{1}{Tropisches Korallenriff}{14}{0}{2}
+\beamer@subsectionintoc {3}{2}{Tiefwasserriff}{15}{0}{2}
+\beamer@sectionintoc {4}{Abiotische Faktoren}{16}{0}{3}
+\beamer@sectionintoc {5}{Biotische Faktoren}{17}{0}{4}
+\beamer@sectionintoc {6}{Nat\IeC {\"u}rliche Gefahren}{34}{0}{5}
+\beamer@subsectionintoc {6}{1}{Fische als R\IeC {\"a}uber}{35}{0}{5}
+\beamer@subsectionintoc {6}{2}{Korallenbleiche}{37}{0}{5}
+\beamer@sectionintoc {7}{Auswirkungen des Menschen}{39}{0}{6}
+\beamer@subsectionintoc {7}{1}{K\IeC {\"u}nstliche Korallenriffe}{40}{0}{6}
+\beamer@subsectionintoc {7}{2}{Verschmutzung}{42}{0}{6}
